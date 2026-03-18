@@ -1,0 +1,7 @@
+[project]
+name = "fastapi-keycloak"
+version = "0.1.0"
+description = "Projeto feito como template de integração entre as ferramentas FastAPI e Keycloak"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
